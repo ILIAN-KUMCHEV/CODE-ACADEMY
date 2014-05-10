@@ -1,0 +1,16 @@
+div{
+    height:160px;
+    width:100px;
+    border:5px solid blue;
+    border-radius:100%;
+    background-color:yellow;
+    box-shadow:5px 10px 40px 40px;
+    text-align:center;
+    margin-left:150px;
+    margin-top:50px;
+}
+span{
+    font-size:20px;
+    font-family:Verdana;
+    color:blue;
+    }
